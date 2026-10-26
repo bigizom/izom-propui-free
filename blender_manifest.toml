@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "izom_propui_free"
+version = "1.1.6"
+name = "izom PropUI Free"
+tagline = "Free custom-property UI panel generator for Blender"
+maintainer = "bigizom"
+type = "add-on"
+
+blender_version_min = "5.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://propui.bigizom.com/"
+tags = ["Animation", "Rigging", "User Interface"]
